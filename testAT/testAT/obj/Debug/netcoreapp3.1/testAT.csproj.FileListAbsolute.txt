@@ -1,0 +1,13 @@
+/Users/claudiogareca/Projects/testAT/testAT/bin/Debug/netcoreapp3.1/testAT.deps.json
+/Users/claudiogareca/Projects/testAT/testAT/bin/Debug/netcoreapp3.1/testAT.runtimeconfig.json
+/Users/claudiogareca/Projects/testAT/testAT/bin/Debug/netcoreapp3.1/testAT.runtimeconfig.dev.json
+/Users/claudiogareca/Projects/testAT/testAT/bin/Debug/netcoreapp3.1/testAT.dll
+/Users/claudiogareca/Projects/testAT/testAT/bin/Debug/netcoreapp3.1/testAT.pdb
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.csproj.AssemblyReference.cache
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.AssemblyInfoInputs.cache
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.AssemblyInfo.cs
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.csproj.CoreCompileInputs.cache
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.dll
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.pdb
+/Users/claudiogareca/Projects/testAT/testAT/obj/Debug/netcoreapp3.1/testAT.genruntimeconfig.cache
